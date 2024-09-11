@@ -1,0 +1,7 @@
+C:\Users\Rullez\source\repos\Prog2DiogoDias\bin\Debug\Prog2DiogoDias.exe.config
+C:\Users\Rullez\source\repos\Prog2DiogoDias\bin\Debug\Prog2DiogoDias.exe
+C:\Users\Rullez\source\repos\Prog2DiogoDias\bin\Debug\Prog2DiogoDias.pdb
+C:\Users\Rullez\source\repos\Prog2DiogoDias\obj\Debug\Prog2DiogoDias.csproj.AssemblyReference.cache
+C:\Users\Rullez\source\repos\Prog2DiogoDias\obj\Debug\Prog2DiogoDias.csproj.CoreCompileInputs.cache
+C:\Users\Rullez\source\repos\Prog2DiogoDias\obj\Debug\Prog2DiogoDias.exe
+C:\Users\Rullez\source\repos\Prog2DiogoDias\obj\Debug\Prog2DiogoDias.pdb
