@@ -1,0 +1,7 @@
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog4DiogoDias\bin\Debug\Prog4DiogoDias.exe.config
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog4DiogoDias\bin\Debug\Prog4DiogoDias.exe
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog4DiogoDias\bin\Debug\Prog4DiogoDias.pdb
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog4DiogoDias\obj\Debug\Prog4DiogoDias.csproj.AssemblyReference.cache
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog4DiogoDias\obj\Debug\Prog4DiogoDias.csproj.CoreCompileInputs.cache
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog4DiogoDias\obj\Debug\Prog4DiogoDias.exe
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog4DiogoDias\obj\Debug\Prog4DiogoDias.pdb

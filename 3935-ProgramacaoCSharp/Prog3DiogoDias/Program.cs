@@ -28,8 +28,9 @@ namespace Prog3DiogoDias
             };
             Console.WriteLine($" \n O Numero seguinte a {n1} é {++n1}");
             Console.WriteLine($" \n o Número n1 é {n1}");
-            Console.WriteLine();
 
+            Console.WriteLine();
+            Console.ReadKey();// para não fechar logo o programa e ver o resultado
         }
     }
 }

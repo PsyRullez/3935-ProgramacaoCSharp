@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog8DiogoDias", "Prog8DiogoDias.csproj", "{71413FDB-4E62-49A8-9376-FF1128875BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71413FDB-4E62-49A8-9376-FF1128875BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71413FDB-4E62-49A8-9376-FF1128875BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71413FDB-4E62-49A8-9376-FF1128875BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71413FDB-4E62-49A8-9376-FF1128875BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0BB659-126B-4654-A295-CC25FE129274}
+	EndGlobalSection
+EndGlobal

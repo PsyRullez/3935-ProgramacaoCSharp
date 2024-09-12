@@ -5,3 +5,10 @@ C:\Users\Rullez\source\repos\Prog3DiogoDias\obj\Debug\Prog3DiogoDias.csproj.Asse
 C:\Users\Rullez\source\repos\Prog3DiogoDias\obj\Debug\Prog3DiogoDias.csproj.CoreCompileInputs.cache
 C:\Users\Rullez\source\repos\Prog3DiogoDias\obj\Debug\Prog3DiogoDias.exe
 C:\Users\Rullez\source\repos\Prog3DiogoDias\obj\Debug\Prog3DiogoDias.pdb
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog3DiogoDias\bin\Debug\Prog3DiogoDias.exe.config
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog3DiogoDias\bin\Debug\Prog3DiogoDias.exe
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog3DiogoDias\bin\Debug\Prog3DiogoDias.pdb
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog3DiogoDias\obj\Debug\Prog3DiogoDias.csproj.AssemblyReference.cache
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog3DiogoDias\obj\Debug\Prog3DiogoDias.csproj.CoreCompileInputs.cache
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog3DiogoDias\obj\Debug\Prog3DiogoDias.exe
+C:\Users\Aprendizagem\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog3DiogoDias\obj\Debug\Prog3DiogoDias.pdb
