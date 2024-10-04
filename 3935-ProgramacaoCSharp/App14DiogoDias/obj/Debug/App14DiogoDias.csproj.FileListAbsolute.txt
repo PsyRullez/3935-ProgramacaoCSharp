@@ -1,0 +1,7 @@
+C:\Users\Aprendizagem\source\repos\App14DiogoDias\obj\Debug\App14DiogoDias.csproj.AssemblyReference.cache
+C:\Users\Aprendizagem\source\repos\App14DiogoDias\obj\Debug\App14DiogoDias.csproj.CoreCompileInputs.cache
+C:\Users\Aprendizagem\source\repos\App14DiogoDias\bin\Debug\App14DiogoDias.exe.config
+C:\Users\Aprendizagem\source\repos\App14DiogoDias\bin\Debug\App14DiogoDias.exe
+C:\Users\Aprendizagem\source\repos\App14DiogoDias\bin\Debug\App14DiogoDias.pdb
+C:\Users\Aprendizagem\source\repos\App14DiogoDias\obj\Debug\App14DiogoDias.exe
+C:\Users\Aprendizagem\source\repos\App14DiogoDias\obj\Debug\App14DiogoDias.pdb
