@@ -16,5 +16,40 @@ namespace Prog15DiogoDias
         {
             InitializeComponent();
         }
+
+        private void RfmRetangulo_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnCalcular_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnVoltar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TxtBase_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TxtAltura_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LblRArea_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LblRPerimetro_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

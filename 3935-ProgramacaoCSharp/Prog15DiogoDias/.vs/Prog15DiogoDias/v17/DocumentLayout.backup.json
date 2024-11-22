@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\documents\\github\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\rfmretangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:rfmretangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\documents\\github\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\rfmretangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:rfmretangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\documents\\github\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\formulas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:formulas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\documents\\github\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\documents\\github\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,36 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RfmRetangulo.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmRetangulo.cs",
-              "RelativeDocumentMoniker": "RfmRetangulo.cs",
-              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmRetangulo.cs [Projeto]*",
-              "RelativeToolTip": "RfmRetangulo.cs [Projeto]*",
+              "DocumentIndex": 3,
+              "Title": "FormaGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FormaGeometrica.cs",
+              "RelativeDocumentMoniker": "FormaGeometrica.cs",
+              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FormaGeometrica.cs",
+              "RelativeToolTip": "FormaGeometrica.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:22:04.661Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Prog15DiogoDias.cs",
-              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.cs",
-              "RelativeDocumentMoniker": "Prog15DiogoDias.cs",
-              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.cs",
-              "RelativeToolTip": "Prog15DiogoDias.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwIAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:53:34.822Z",
+              "WhenOpened": "2024-11-22T16:25:15.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "RfmRetangulo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmRetangulo.cs",
+              "RelativeDocumentMoniker": "RfmRetangulo.cs",
+              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmRetangulo.cs [Projeto]",
+              "RelativeToolTip": "RfmRetangulo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:52:48.256Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RfmRetangulo.cs",
+              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmRetangulo.cs",
+              "RelativeDocumentMoniker": "RfmRetangulo.cs",
+              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmRetangulo.cs",
+              "RelativeToolTip": "RfmRetangulo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:47:22.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Prog15DiogoDias.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.cs",
               "RelativeDocumentMoniker": "Prog15DiogoDias.cs",
@@ -64,19 +77,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T16:53:30.94Z",
               "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Formulas.cs",
-              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Formulas.cs",
-              "RelativeDocumentMoniker": "Formulas.cs",
-              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Formulas.cs",
-              "RelativeToolTip": "Formulas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:19:15.306Z",
-              "EditorCaption": ""
             }
           ]
         }

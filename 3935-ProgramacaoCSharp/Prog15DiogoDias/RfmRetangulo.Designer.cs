@@ -62,6 +62,7 @@
             txtBase.Name = "txtBase";
             txtBase.Size = new Size(150, 31);
             txtBase.TabIndex = 2;
+            txtBase.TextChanged += TxtBase_TextChanged;
             // 
             // txtAltura
             // 
@@ -69,6 +70,7 @@
             txtAltura.Name = "txtAltura";
             txtAltura.Size = new Size(150, 31);
             txtAltura.TabIndex = 3;
+            txtAltura.TextChanged += TxtAltura_TextChanged;
             // 
             // btnCalcular
             // 
@@ -78,6 +80,7 @@
             btnCalcular.TabIndex = 4;
             btnCalcular.Text = "Calcular";
             btnCalcular.UseVisualStyleBackColor = true;
+            btnCalcular.Click += BtnCalcular_Click;
             // 
             // lblRPerimetro
             // 
@@ -87,6 +90,7 @@
             lblRPerimetro.Size = new Size(100, 25);
             lblRPerimetro.TabIndex = 5;
             lblRPerimetro.Text = "Perímetro=";
+            lblRPerimetro.Click += LblRPerimetro_Click;
             // 
             // lblRArea
             // 
@@ -96,6 +100,7 @@
             lblRArea.Size = new Size(60, 25);
             lblRArea.TabIndex = 6;
             lblRArea.Text = "Área=";
+            lblRArea.Click += LblRArea_Click;
             // 
             // btnVoltar
             // 
@@ -105,6 +110,7 @@
             btnVoltar.TabIndex = 7;
             btnVoltar.Text = "Voltar";
             btnVoltar.UseVisualStyleBackColor = true;
+            btnVoltar.Click += BtnVoltar_Click;
             // 
             // RfmRetangulo
             // 
