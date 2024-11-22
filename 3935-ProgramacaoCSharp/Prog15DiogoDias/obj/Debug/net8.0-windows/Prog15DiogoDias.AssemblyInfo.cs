@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prog15DiogoDias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+538ca312900a9c545f8110ae0ee19b811fd46ce4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65632e2255e9e307f4988ea2d6c638f8b3ffacf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prog15DiogoDias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prog15DiogoDias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
