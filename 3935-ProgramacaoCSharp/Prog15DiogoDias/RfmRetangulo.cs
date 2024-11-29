@@ -30,7 +30,45 @@ namespace Prog15DiogoDias
 
         private void BtnCalcular_Click(object sender, EventArgs e)
         {
+            try
+            {
+                // Obter os valores da base e altura a partir dos campos de texto
+                double baseRetangulo = double.Parse(txtBase.Text);
+                double alturaRetangulo = double.Parse(txtAltura.Text);
 
+                // Instanciar a classe Retangulo
+                Retangulo retangulo = new Retangulo
+                {
+                    Largura = baseRetangulo,
+                    Altura = alturaRetangulo
+                };
+
+                // Calcular área e perímetro
+                double area = retangulo.CalculaArea();
+                double perimetro = retangulo.CalculaPerimetro();
+
+                // Exibir os resultados nos labels
+                lblRArea.Text = $"Área = {area:F2}";
+                lblRPerimetro.Text = $"Perímetro = {perimetro:F2}";
+
+                // Tornar os labels visíveis
+                lblRArea.Show();
+                lblRPerimetro.Show();
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("Por favor, insira valores numéricos válidos para a base e altura.",
+                                "Erro de Formato",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ocorreu um erro: {ex.Message}",
+                                "Erro",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Error);
+            }
         }
 
         private void BtnVoltar_Click(object sender, EventArgs e)
