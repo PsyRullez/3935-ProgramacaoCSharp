@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RfmTriangulo));
             btnVoltar = new Button();
             lblRArea = new Label();
             lblRPerimetro = new Label();
@@ -39,6 +40,8 @@
             txtLado3 = new TextBox();
             lblLado3 = new Label();
             lblTipo = new Label();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // btnVoltar
@@ -71,7 +74,7 @@
             // 
             // btnCalcular
             // 
-            btnCalcular.Location = new Point(187, 374);
+            btnCalcular.Location = new Point(35, 374);
             btnCalcular.Name = "btnCalcular";
             btnCalcular.Size = new Size(112, 34);
             btnCalcular.TabIndex = 12;
@@ -130,18 +133,29 @@
             // lblTipo
             // 
             lblTipo.AutoSize = true;
-            lblTipo.Location = new Point(472, 61);
+            lblTipo.Location = new Point(625, 39);
             lblTipo.Name = "lblTipo";
             lblTipo.Size = new Size(125, 25);
             lblTipo.TabIndex = 18;
             lblTipo.Text = "Triangulo tipo:";
             lblTipo.Click += label1_Click;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(336, 39);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(233, 133);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 19;
+            pictureBox1.TabStop = false;
+            // 
             // RfmTriangulo
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(pictureBox1);
             Controls.Add(lblTipo);
             Controls.Add(txtLado3);
             Controls.Add(lblLado3);
@@ -156,6 +170,7 @@
             Name = "RfmTriangulo";
             Text = "RfmTriangulo";
             Load += RfmTriangulo_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -173,5 +188,6 @@
         private TextBox txtLado3;
         private Label lblLado3;
         private Label lblTipo;
+        private PictureBox pictureBox1;
     }
 }

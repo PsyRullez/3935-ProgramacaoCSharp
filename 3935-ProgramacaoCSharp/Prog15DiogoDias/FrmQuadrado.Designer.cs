@@ -28,12 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmQuadrado));
             txtLadoA = new TextBox();
             lblLadoA = new Label();
             lblRArea = new Label();
             lblRPerimetro = new Label();
             btnVoltar = new Button();
             btnCalcular = new Button();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // txtLadoA
@@ -48,9 +51,9 @@
             lblLadoA.AutoSize = true;
             lblLadoA.Location = new Point(14, 68);
             lblLadoA.Name = "lblLadoA";
-            lblLadoA.Size = new Size(70, 25);
+            lblLadoA.Size = new Size(66, 25);
             lblLadoA.TabIndex = 4;
-            lblLadoA.Text = "Lado-A";
+            lblLadoA.Text = "Lado-L";
             // 
             // lblRArea
             // 
@@ -90,11 +93,22 @@
             btnCalcular.UseVisualStyleBackColor = true;
             btnCalcular.Click += btnCalcular_Click;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(529, 91);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(233, 133);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 12;
+            pictureBox1.TabStop = false;
+            // 
             // FrmQuadrado
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(pictureBox1);
             Controls.Add(btnVoltar);
             Controls.Add(btnCalcular);
             Controls.Add(lblRArea);
@@ -104,6 +118,7 @@
             Name = "FrmQuadrado";
             Text = "FrmQuadrado";
             Load += FrmQuadrado_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -115,5 +130,6 @@
         private Label lblRPerimetro;
         private Button btnVoltar;
         private Button btnCalcular;
+        private PictureBox pictureBox1;
     }
 }

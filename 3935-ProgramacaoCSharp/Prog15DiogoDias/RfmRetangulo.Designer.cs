@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RfmRetangulo));
             lblBase = new Label();
             lblAltura = new Label();
             txtBase = new TextBox();
@@ -36,6 +37,8 @@
             lblRPerimetro = new Label();
             lblRArea = new Label();
             btnVoltar = new Button();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // lblBase
@@ -112,11 +115,22 @@
             btnVoltar.UseVisualStyleBackColor = true;
             btnVoltar.Click += BtnVoltar_Click;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(536, 31);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(233, 133);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 17;
+            pictureBox1.TabStop = false;
+            // 
             // RfmRetangulo
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(pictureBox1);
             Controls.Add(btnVoltar);
             Controls.Add(lblRArea);
             Controls.Add(lblRPerimetro);
@@ -127,6 +141,7 @@
             Controls.Add(lblBase);
             Name = "RfmRetangulo";
             Text = "RfmRetangulo";
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -141,5 +156,6 @@
         private Label lblRPerimetro;
         private Label lblRArea;
         private Button btnVoltar;
+        private PictureBox pictureBox1;
     }
 }

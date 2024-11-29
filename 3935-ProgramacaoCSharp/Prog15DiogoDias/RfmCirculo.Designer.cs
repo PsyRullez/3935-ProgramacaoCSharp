@@ -28,12 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RfmCirculo));
             btnVoltar = new Button();
             lblRArea = new Label();
             btnCalcular = new Button();
             txtRaio = new TextBox();
             lblRaio = new Label();
             lblRPerimetro = new Label();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // btnVoltar
@@ -90,11 +93,22 @@
             lblRPerimetro.TabIndex = 13;
             lblRPerimetro.Text = "Perímetro=";
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(515, 25);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(233, 133);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 16;
+            pictureBox1.TabStop = false;
+            // 
             // RfmCirculo
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(pictureBox1);
             Controls.Add(btnVoltar);
             Controls.Add(lblRArea);
             Controls.Add(lblRPerimetro);
@@ -104,6 +118,7 @@
             Name = "RfmCirculo";
             Text = "RfmCirculo";
             Load += RfmCirculo_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -116,5 +131,6 @@
         private TextBox txtRaio;
         private Label lblRaio;
         private Label lblRPerimetro;
+        private PictureBox pictureBox1;
     }
 }

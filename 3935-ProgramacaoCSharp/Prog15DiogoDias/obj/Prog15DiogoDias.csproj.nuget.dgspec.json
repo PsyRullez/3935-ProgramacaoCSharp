@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EINst\\Source\\Repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.csproj": {}
+    "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EINst\\Source\\Repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.csproj": {
+    "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EINst\\Source\\Repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.csproj",
+        "projectUniqueName": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.csproj",
         "projectName": "Prog15DiogoDias",
-        "projectPath": "C:\\Users\\EINst\\Source\\Repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.csproj",
+        "projectPath": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.csproj",
         "packagesPath": "C:\\Users\\EINst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EINst\\Source\\Repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\obj\\",
+        "outputPath": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\source\\repos\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\rfmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:rfmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\source\\repos\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\frmquadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:frmquadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\source\\repos\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\source\\repos\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\frmquadrado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:frmquadrado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\source\\repos\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\frmquadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:frmquadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\source\\repos\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:prog15diogodias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FormaGeometrica.cs",
               "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FormaGeometrica.cs",
               "RelativeDocumentMoniker": "FormaGeometrica.cs",
               "ToolTip": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FormaGeometrica.cs",
               "RelativeToolTip": "FormaGeometrica.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAiwE8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwE8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T16:25:15.752Z",
               "IsPinned": true,
@@ -48,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Prog15DiogoDias.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.cs",
               "RelativeDocumentMoniker": "Prog15DiogoDias.cs",
@@ -56,45 +52,30 @@
               "RelativeToolTip": "Prog15DiogoDias.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T16:53:30.94Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmQuadrado.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\EINst\\Source\\Repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FrmQuadrado.Designer.cs",
-              "RelativeDocumentMoniker": "FrmQuadrado.Designer.cs",
-              "ToolTip": "C:\\Users\\EINst\\Source\\Repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FrmQuadrado.Designer.cs*",
-              "RelativeToolTip": "FrmQuadrado.Designer.cs*",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAYwGEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:27:21.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmQuadrado.cs",
-              "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FrmQuadrado.cs",
-              "RelativeDocumentMoniker": "FrmQuadrado.cs",
-              "ToolTip": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FrmQuadrado.cs*",
-              "RelativeToolTip": "FrmQuadrado.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwBcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:27:14.518Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RfmCirculo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmCirculo.cs",
+              "RelativeDocumentMoniker": "RfmCirculo.cs",
+              "ToolTip": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmCirculo.cs [Projeto]",
+              "RelativeToolTip": "RfmCirculo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:01:52.105Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FrmQuadrado.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FrmQuadrado.cs",
               "RelativeDocumentMoniker": "FrmQuadrado.cs",
-              "ToolTip": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FrmQuadrado.cs [Projeto]*",
-              "RelativeToolTip": "FrmQuadrado.cs [Projeto]*",
+              "ToolTip": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FrmQuadrado.cs [Projeto]",
+              "RelativeToolTip": "FrmQuadrado.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:26:22.074Z",
+              "WhenOpened": "2024-11-29T17:01:43Z",
               "EditorCaption": " [Projeto]"
             }
           ]
