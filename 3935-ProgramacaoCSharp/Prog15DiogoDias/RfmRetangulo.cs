@@ -19,6 +19,12 @@ namespace Prog15DiogoDias
 
         private void RfmRetangulo_Load(object sender, EventArgs e)
         {
+            txtBase.Text = "";
+            txtAltura.Text = "";
+            lblRArea.Text = "Área=";
+            lblRArea.Hide();
+            lblRPerimetro.Text = "Perímetro=";
+            lblRPerimetro.Hide();
 
         }
 
@@ -29,7 +35,8 @@ namespace Prog15DiogoDias
 
         private void BtnVoltar_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            new Prog15DiogoDias().Show();
         }
 
         private void TxtBase_TextChanged(object sender, EventArgs e)
