@@ -1,0 +1,17 @@
+C:\Users\EINst\source\repos\Prog20DiogoDias\bin\Debug\net8.0-windows\Prog20DiogoDias.exe
+C:\Users\EINst\source\repos\Prog20DiogoDias\bin\Debug\net8.0-windows\Prog20DiogoDias.deps.json
+C:\Users\EINst\source\repos\Prog20DiogoDias\bin\Debug\net8.0-windows\Prog20DiogoDias.runtimeconfig.json
+C:\Users\EINst\source\repos\Prog20DiogoDias\bin\Debug\net8.0-windows\Prog20DiogoDias.dll
+C:\Users\EINst\source\repos\Prog20DiogoDias\bin\Debug\net8.0-windows\Prog20DiogoDias.pdb
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.FrmLogin.resources
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.csproj.GenerateResource.cache
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.AssemblyInfoInputs.cache
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.AssemblyInfo.cs
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.csproj.CoreCompileInputs.cache
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.dll
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\refint\Prog20DiogoDias.dll
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.pdb
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.genruntimeconfig.cache
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\ref\Prog20DiogoDias.dll
+C:\Users\EINst\source\repos\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.Properties.Resources.resources
