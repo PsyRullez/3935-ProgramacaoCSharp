@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\source\\repos\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\rfmtriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:rfmtriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\source\\repos\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\rfmretangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:rfmretangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|c:\\users\\einst\\source\\repos\\3935-programacaocsharp\\3935-programacaocsharp\\prog15diogodias\\rfmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55A23162-1D76-4108-9B6B-00F549E81A5D}|Prog15DiogoDias.csproj|solutionrelative:rfmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -30,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormaGeometrica.cs",
               "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FormaGeometrica.cs",
               "RelativeDocumentMoniker": "FormaGeometrica.cs",
@@ -44,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Prog15DiogoDias.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\Prog15DiogoDias.cs",
               "RelativeDocumentMoniker": "Prog15DiogoDias.cs",
@@ -57,6 +65,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RfmTriangulo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmTriangulo.cs",
+              "RelativeDocumentMoniker": "RfmTriangulo.cs",
+              "ToolTip": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmTriangulo.cs [Projeto]",
+              "RelativeToolTip": "RfmTriangulo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:02:57.813Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RfmRetangulo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmRetangulo.cs",
+              "RelativeDocumentMoniker": "RfmRetangulo.cs",
+              "ToolTip": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmRetangulo.cs [Projeto]",
+              "RelativeToolTip": "RfmRetangulo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:02:23.352Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RfmCirculo.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\RfmCirculo.cs",
               "RelativeDocumentMoniker": "RfmCirculo.cs",
@@ -68,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FrmQuadrado.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\EINst\\source\\repos\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog15DiogoDias\\FrmQuadrado.cs",
               "RelativeDocumentMoniker": "FrmQuadrado.cs",

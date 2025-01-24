@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\",
+  "WorkspaceRootPath": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|c:\\users\\aprendizagem\\source\\repos\\app14diogodias\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|c:\\users\\einst\\documents\\github\\3935-programacaocsharp\\3935-programacaocsharp\\app14diogodias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|solutionrelative:formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|c:\\users\\aprendizagem\\source\\repos\\app14diogodias\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|solutionrelative:retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|c:\\users\\aprendizagem\\source\\repos\\app14diogodias\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|solutionrelative:quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|c:\\users\\aprendizagem\\source\\repos\\app14diogodias\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|c:\\users\\aprendizagem\\source\\repos\\app14diogodias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBD39F39-3FB3-4F4B-AAB9-186720CE7269}|App14DiogoDias.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,89 +30,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Retangulo.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\Retangulo.cs",
-              "RelativeDocumentMoniker": "Retangulo.cs",
-              "ToolTip": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\Retangulo.cs",
-              "RelativeToolTip": "Retangulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:53:43.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Circulo.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\Circulo.cs",
-              "RelativeDocumentMoniker": "Circulo.cs",
-              "ToolTip": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\Circulo.cs",
-              "RelativeToolTip": "Circulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:52:58.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormaGeometrica.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\FormaGeometrica.cs",
-              "RelativeDocumentMoniker": "FormaGeometrica.cs",
-              "ToolTip": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\FormaGeometrica.cs",
-              "RelativeToolTip": "FormaGeometrica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:37:43.229Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Quadrado.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\Quadrado.cs",
-              "RelativeDocumentMoniker": "Quadrado.cs",
-              "ToolTip": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\Quadrado.cs",
-              "RelativeToolTip": "Quadrado.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAWwBkAAAAUAAAA",
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Retangulo.cs",
+              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\Retangulo.cs",
+              "RelativeToolTip": "Retangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:36:14.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T15:53:43.598Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\Circulo.cs",
+              "RelativeDocumentMoniker": "Circulo.cs",
+              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\Circulo.cs",
+              "RelativeToolTip": "Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:52:58.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\FormaGeometrica.cs",
+              "RelativeDocumentMoniker": "FormaGeometrica.cs",
+              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\FormaGeometrica.cs",
+              "RelativeToolTip": "FormaGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:37:43.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Quadrado.cs",
+              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\Quadrado.cs",
+              "RelativeToolTip": "Quadrado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAWwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:36:14.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aprendizagem\\source\\repos\\App14DiogoDias\\Program.cs",
+              "ToolTip": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\App14DiogoDias\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwCAAAAAeAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T14:07:01.469Z",
               "EditorCaption": ""

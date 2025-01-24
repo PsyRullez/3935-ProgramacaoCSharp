@@ -43,11 +43,14 @@
             this.txtBoxPassword = new System.Windows.Forms.TextBox();
             this.lblPassword = new System.Windows.Forms.Label();
             this.btnConnect = new System.Windows.Forms.Button();
+            this.LblDBstatus = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
             // 
+            this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.smenuDatabase,
             this.smenuItemList,
@@ -56,119 +59,138 @@
             this.smenuExit});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1200, 36);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // smenuDatabase
             // 
             this.smenuDatabase.Name = "smenuDatabase";
-            this.smenuDatabase.Size = new System.Drawing.Size(95, 20);
+            this.smenuDatabase.Size = new System.Drawing.Size(146, 30);
             this.smenuDatabase.Text = "Base de Dados";
             // 
             // smenuItemList
             // 
             this.smenuItemList.Name = "smenuItemList";
-            this.smenuItemList.Size = new System.Drawing.Size(120, 20);
+            this.smenuItemList.Size = new System.Drawing.Size(179, 30);
             this.smenuItemList.Text = "Lista de Telemoveis";
             // 
             // smenuBrands
             // 
             this.smenuBrands.Name = "smenuBrands";
-            this.smenuBrands.Size = new System.Drawing.Size(57, 20);
+            this.smenuBrands.Size = new System.Drawing.Size(84, 30);
             this.smenuBrands.Text = "Marcas";
             // 
             // smenuSearch
             // 
             this.smenuSearch.Name = "smenuSearch";
-            this.smenuSearch.Size = new System.Drawing.Size(65, 20);
+            this.smenuSearch.Size = new System.Drawing.Size(96, 30);
             this.smenuSearch.Text = "Pesquisa";
             // 
             // smenuExit
             // 
             this.smenuExit.Name = "smenuExit";
-            this.smenuExit.Size = new System.Drawing.Size(38, 20);
+            this.smenuExit.Size = new System.Drawing.Size(57, 30);
             this.smenuExit.Text = "Sair";
             // 
             // lblDataSource
             // 
             this.lblDataSource.AutoSize = true;
-            this.lblDataSource.Location = new System.Drawing.Point(33, 114);
+            this.lblDataSource.Location = new System.Drawing.Point(50, 175);
+            this.lblDataSource.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblDataSource.Name = "lblDataSource";
-            this.lblDataSource.Size = new System.Drawing.Size(64, 13);
+            this.lblDataSource.Size = new System.Drawing.Size(95, 20);
             this.lblDataSource.TabIndex = 1;
             this.lblDataSource.Text = "DataSource";
             // 
             // txtboxDataSource
             // 
-            this.txtboxDataSource.Location = new System.Drawing.Point(103, 107);
+            this.txtboxDataSource.Location = new System.Drawing.Point(154, 165);
+            this.txtboxDataSource.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtboxDataSource.Name = "txtboxDataSource";
-            this.txtboxDataSource.Size = new System.Drawing.Size(100, 20);
+            this.txtboxDataSource.Size = new System.Drawing.Size(148, 26);
             this.txtboxDataSource.TabIndex = 2;
             // 
             // txtBoxPort
             // 
-            this.txtBoxPort.Location = new System.Drawing.Point(103, 166);
+            this.txtBoxPort.Location = new System.Drawing.Point(154, 255);
+            this.txtBoxPort.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtBoxPort.Name = "txtBoxPort";
-            this.txtBoxPort.Size = new System.Drawing.Size(100, 20);
+            this.txtBoxPort.Size = new System.Drawing.Size(148, 26);
             this.txtBoxPort.TabIndex = 4;
             // 
             // lblPort
             // 
             this.lblPort.AutoSize = true;
-            this.lblPort.Location = new System.Drawing.Point(33, 173);
+            this.lblPort.Location = new System.Drawing.Point(50, 266);
+            this.lblPort.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPort.Name = "lblPort";
-            this.lblPort.Size = new System.Drawing.Size(32, 13);
+            this.lblPort.Size = new System.Drawing.Size(47, 20);
             this.lblPort.TabIndex = 3;
             this.lblPort.Text = "Porta";
             // 
             // txtBoxUser
             // 
-            this.txtBoxUser.Location = new System.Drawing.Point(291, 111);
+            this.txtBoxUser.Location = new System.Drawing.Point(436, 171);
+            this.txtBoxUser.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtBoxUser.Name = "txtBoxUser";
-            this.txtBoxUser.Size = new System.Drawing.Size(100, 20);
+            this.txtBoxUser.Size = new System.Drawing.Size(148, 26);
             this.txtBoxUser.TabIndex = 6;
             // 
             // lblUser
             // 
             this.lblUser.AutoSize = true;
-            this.lblUser.Location = new System.Drawing.Point(235, 114);
+            this.lblUser.Location = new System.Drawing.Point(352, 175);
+            this.lblUser.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblUser.Name = "lblUser";
-            this.lblUser.Size = new System.Drawing.Size(50, 13);
+            this.lblUser.Size = new System.Drawing.Size(75, 20);
             this.lblUser.TabIndex = 5;
             this.lblUser.Text = "Utilizador";
             // 
             // txtBoxPassword
             // 
-            this.txtBoxPassword.Location = new System.Drawing.Point(291, 170);
+            this.txtBoxPassword.Location = new System.Drawing.Point(436, 262);
+            this.txtBoxPassword.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtBoxPassword.Name = "txtBoxPassword";
-            this.txtBoxPassword.Size = new System.Drawing.Size(100, 20);
+            this.txtBoxPassword.Size = new System.Drawing.Size(148, 26);
             this.txtBoxPassword.TabIndex = 8;
             // 
             // lblPassword
             // 
             this.lblPassword.AutoSize = true;
-            this.lblPassword.Location = new System.Drawing.Point(235, 173);
+            this.lblPassword.Location = new System.Drawing.Point(352, 266);
+            this.lblPassword.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPassword.Name = "lblPassword";
-            this.lblPassword.Size = new System.Drawing.Size(53, 13);
+            this.lblPassword.Size = new System.Drawing.Size(78, 20);
             this.lblPassword.TabIndex = 7;
             this.lblPassword.Text = "Password";
             // 
             // btnConnect
             // 
-            this.btnConnect.Location = new System.Drawing.Point(420, 138);
+            this.btnConnect.Location = new System.Drawing.Point(630, 212);
+            this.btnConnect.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnConnect.Name = "btnConnect";
-            this.btnConnect.Size = new System.Drawing.Size(75, 23);
+            this.btnConnect.Size = new System.Drawing.Size(112, 35);
             this.btnConnect.TabIndex = 9;
             this.btnConnect.Text = "Conectar";
             this.btnConnect.UseVisualStyleBackColor = true;
-            this.btnConnect.Click += new System.EventHandler(this.btnConnect_Click);
+            // 
+            // LblDBstatus
+            // 
+            this.LblDBstatus.AutoSize = true;
+            this.LblDBstatus.Location = new System.Drawing.Point(658, 268);
+            this.LblDBstatus.Name = "LblDBstatus";
+            this.LblDBstatus.Size = new System.Drawing.Size(64, 20);
+            this.LblDBstatus.TabIndex = 10;
+            this.LblDBstatus.Text = "Estado:";
+            this.LblDBstatus.Click += new System.EventHandler(this.LblDBstatus_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1200, 692);
+            this.Controls.Add(this.LblDBstatus);
             this.Controls.Add(this.btnConnect);
             this.Controls.Add(this.txtBoxPassword);
             this.Controls.Add(this.lblPassword);
@@ -180,8 +202,10 @@
             this.Controls.Add(this.lblDataSource);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -206,6 +230,7 @@
         private System.Windows.Forms.TextBox txtBoxPassword;
         private System.Windows.Forms.Label lblPassword;
         private System.Windows.Forms.Button btnConnect;
+        private System.Windows.Forms.Label LblDBstatus;
     }
 }
 
