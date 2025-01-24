@@ -63,7 +63,7 @@
             loginStrip.Items.AddRange(new ToolStripItem[] { baseDeDadosToolStripMenuItem, listaDeTelemóveisToolStripMenuItem, inserirToolStripMenuItem, pesquisaToolStripMenuItem, sairToolStripMenuItem });
             loginStrip.Location = new Point(0, 0);
             loginStrip.Name = "loginStrip";
-            loginStrip.Size = new Size(831, 46);
+            loginStrip.Size = new Size(1205, 46);
             loginStrip.TabIndex = 1;
             loginStrip.Text = "Loja de Telemoveis";
             // 
@@ -84,6 +84,7 @@
             inserirToolStripMenuItem.Name = "inserirToolStripMenuItem";
             inserirToolStripMenuItem.Size = new Size(110, 42);
             inserirToolStripMenuItem.Text = "Inserir";
+            inserirToolStripMenuItem.Click += inserirToolStripMenuItem_Click;
             // 
             // pesquisaToolStripMenuItem
             // 
@@ -96,6 +97,7 @@
             sairToolStripMenuItem.Name = "sairToolStripMenuItem";
             sairToolStripMenuItem.Size = new Size(79, 42);
             sairToolStripMenuItem.Text = "Sair";
+            sairToolStripMenuItem.Click += sairToolStripMenuItem_Click;
             // 
             // lbl_marca
             // 
@@ -113,7 +115,7 @@
             pictureBox1.Image = Properties.Resources.images;
             pictureBox1.Location = new Point(237, 49);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(345, 147);
+            pictureBox1.Size = new Size(719, 147);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 3;
             pictureBox1.TabStop = false;
@@ -169,7 +171,7 @@
             // 
             // txtbox_preco
             // 
-            txtbox_preco.Location = new Point(672, 465);
+            txtbox_preco.Location = new Point(884, 295);
             txtbox_preco.Name = "txtbox_preco";
             txtbox_preco.Size = new Size(133, 31);
             txtbox_preco.TabIndex = 11;
@@ -177,7 +179,7 @@
             // lbl_preco
             // 
             lbl_preco.AutoSize = true;
-            lbl_preco.Location = new Point(610, 468);
+            lbl_preco.Location = new Point(822, 298);
             lbl_preco.Name = "lbl_preco";
             lbl_preco.Size = new Size(56, 25);
             lbl_preco.TabIndex = 10;
@@ -245,7 +247,7 @@
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
-            ClientSize = new Size(831, 689);
+            ClientSize = new Size(1205, 505);
             Controls.Add(txtbox_mem);
             Controls.Add(label1);
             Controls.Add(txtbox_ram);
@@ -266,7 +268,6 @@
             Controls.Add(loginStrip);
             Name = "RFMinsert";
             Text = "RFMinsert";
-            Load += RFMinsert_Load;
             loginStrip.ResumeLayout(false);
             loginStrip.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

@@ -17,7 +17,17 @@ namespace Prog20DiogoDias
             InitializeComponent();
         }
 
-        private void RFMinsert_Load(object sender, EventArgs e)
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // Close the form
+            this.Close();
+            //return to the login form
+            FrmLogin login = new();
+            login.ShowDialog();
+
+        }
+
+        private void inserirToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }

@@ -45,6 +45,8 @@
             dbPassTxtbox = new TextBox();
             btnCxnx = new Button();
             lbl_dbState = new Label();
+            dbNameTxtBox = new TextBox();
+            lbl_dbName = new Label();
             loginStrip.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -56,7 +58,7 @@
             loginStrip.Items.AddRange(new ToolStripItem[] { baseDeDadosToolStripMenuItem, listaDeTelemóveisToolStripMenuItem, inserirToolStripMenuItem, pesquisaToolStripMenuItem, sairToolStripMenuItem });
             loginStrip.Location = new Point(0, 0);
             loginStrip.Name = "loginStrip";
-            loginStrip.Size = new Size(831, 46);
+            loginStrip.Size = new Size(1256, 46);
             loginStrip.TabIndex = 0;
             loginStrip.Text = "Loja de Telemoveis";
             // 
@@ -77,7 +79,6 @@
             inserirToolStripMenuItem.Name = "inserirToolStripMenuItem";
             inserirToolStripMenuItem.Size = new Size(110, 42);
             inserirToolStripMenuItem.Text = "Inserir";
-            inserirToolStripMenuItem.Click += inserirToolStripMenuItem_Click;
             // 
             // pesquisaToolStripMenuItem
             // 
@@ -90,7 +91,7 @@
             sairToolStripMenuItem.Name = "sairToolStripMenuItem";
             sairToolStripMenuItem.Size = new Size(79, 42);
             sairToolStripMenuItem.Text = "Sair";
-            sairToolStripMenuItem.Click += sairToolStripMenuItem_Click;
+            sairToolStripMenuItem.Click += sairToolStripMenuItem_Click_1;
             // 
             // pictureBox1
             // 
@@ -99,8 +100,8 @@
             pictureBox1.Image = Properties.Resources.images;
             pictureBox1.Location = new Point(307, 59);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(272, 189);
-            pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
+            pictureBox1.Size = new Size(719, 147);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;
@@ -177,7 +178,7 @@
             // 
             // btnCxnx
             // 
-            btnCxnx.Location = new Point(119, 479);
+            btnCxnx.Location = new Point(997, 275);
             btnCxnx.Name = "btnCxnx";
             btnCxnx.Size = new Size(112, 34);
             btnCxnx.TabIndex = 10;
@@ -188,7 +189,7 @@
             // lbl_dbState
             // 
             lbl_dbState.AutoSize = true;
-            lbl_dbState.Location = new Point(413, 484);
+            lbl_dbState.Location = new Point(909, 379);
             lbl_dbState.Name = "lbl_dbState";
             lbl_dbState.Size = new Size(213, 25);
             lbl_dbState.TabIndex = 11;
@@ -196,13 +197,32 @@
             lbl_dbState.TextAlign = ContentAlignment.MiddleCenter;
             lbl_dbState.Click += lbl_dbState_Click;
             // 
+            // dbNameTxtBox
+            // 
+            dbNameTxtBox.Location = new Point(119, 413);
+            dbNameTxtBox.Name = "dbNameTxtBox";
+            dbNameTxtBox.Size = new Size(243, 31);
+            dbNameTxtBox.TabIndex = 13;
+            dbNameTxtBox.TextAlign = HorizontalAlignment.Center;
+            // 
+            // lbl_dbName
+            // 
+            lbl_dbName.AutoSize = true;
+            lbl_dbName.Location = new Point(24, 419);
+            lbl_dbName.Name = "lbl_dbName";
+            lbl_dbName.Size = new Size(89, 25);
+            lbl_dbName.TabIndex = 12;
+            lbl_dbName.Text = "DB_Name";
+            // 
             // FrmLogin
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
-            ClientSize = new Size(831, 689);
+            ClientSize = new Size(1256, 689);
             ControlBox = false;
+            Controls.Add(dbNameTxtBox);
+            Controls.Add(lbl_dbName);
             Controls.Add(lbl_dbState);
             Controls.Add(btnCxnx);
             Controls.Add(dbPassTxtbox);
@@ -217,7 +237,9 @@
             Controls.Add(loginStrip);
             MainMenuStrip = loginStrip;
             Name = "FrmLogin";
+            StartPosition = FormStartPosition.WindowsDefaultBounds;
             Text = "FrmLogin";
+            WindowState = FormWindowState.Maximized;
             Load += FrmLogin_Load;
             loginStrip.ResumeLayout(false);
             loginStrip.PerformLayout();
@@ -233,7 +255,6 @@
         private ToolStripMenuItem listaDeTelemóveisToolStripMenuItem;
         private ToolStripMenuItem inserirToolStripMenuItem;
         private ToolStripMenuItem pesquisaToolStripMenuItem;
-        private ToolStripMenuItem sairToolStripMenuItem;
         private PictureBox pictureBox1;
         private Label lbl_dbHost;
         private Label lbl_dbPort;
@@ -245,5 +266,8 @@
         private TextBox dbPassTxtbox;
         private Button btnCxnx;
         private Label lbl_dbState;
+        private ToolStripMenuItem sairToolStripMenuItem;
+        private TextBox dbNameTxtBox;
+        private Label lbl_dbName;
     }
 }

@@ -19,6 +19,7 @@ namespace Prog20DiogoDias
             dbHostTxtbox.Text = "localhost";
             dbPortTxtbox.Text = "3306";
             dbUserTxtbox.Text = "root";
+            dbNameTxtBox.Text = "login_db";
             dbPassTxtbox.Text = string.Empty;
         }
 
@@ -36,11 +37,14 @@ namespace Prog20DiogoDias
         {
             try
             {
-                string connString = $"Server={dbHostTxtbox.Text};Port={dbPortTxtbox.Text};Database=information_schema;Uid={dbUserTxtbox.Text};Pwd={dbPassTxtbox.Text};";
+                string connString = $"Server={dbHostTxtbox.Text};Port={dbPortTxtbox.Text};Database={dbNameTxtBox.Text};Uid={dbUserTxtbox.Text};Pwd={dbPassTxtbox.Text};";
                 MySqlConnection conn = new MySqlConnection(connString);
                 conn.Open();
                 conn.Close();
                 MessageBox.Show("Connection successful!");
+                this.Hide();
+                RFMinsert rfm = new();
+                rfm.ShowDialog();
             }
             catch (Exception ex)
             {
@@ -53,14 +57,8 @@ namespace Prog20DiogoDias
 
         }
 
-        private void inserirToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            RFMinsert frmInsert = new RFMinsert();
-            frmInsert.ShowDialog();
-        }
 
-        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        private void sairToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             Application.Exit();
         }
