@@ -1,0 +1,35 @@
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\obj\Debug\ProjetoPedro.csproj.AssemblyReference.cache
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\obj\Debug\ProjetoPedro.Form1.resources
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\obj\Debug\ProjetoPedro.Properties.Resources.resources
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\obj\Debug\ProjetoPedro.csproj.GenerateResource.cache
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\obj\Debug\ProjetoPedro.csproj.CoreCompileInputs.cache
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\bin\Debug\ProjetoPedro.exe.config
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\bin\Debug\ProjetoPedro.exe
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\bin\Debug\ProjetoPedro.pdb
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\bin\Debug\MySql.Data.dll
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\bin\Debug\System.Memory.dll
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\bin\Debug\System.Buffers.dll
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\bin\Debug\MySql.Data.xml
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\obj\Debug\ProjetoPedro.csproj.CopyComplete
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\obj\Debug\ProjetoPedro.exe
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\obj\Debug\ProjetoPedro.pdb
+C:\Users\EISnt\Desktop\Eisnt 3º ano\c#\ProjetoPedro\obj\Debug\ProjetoPedro.FrmTelemoveis.resources
+C:\Users\EINst\Desktop\ProjetoPedro\bin\Debug\ProjetoPedro.exe.config
+C:\Users\EINst\Desktop\ProjetoPedro\bin\Debug\ProjetoPedro.exe
+C:\Users\EINst\Desktop\ProjetoPedro\bin\Debug\ProjetoPedro.pdb
+C:\Users\EINst\Desktop\ProjetoPedro\bin\Debug\System.Memory.dll
+C:\Users\EINst\Desktop\ProjetoPedro\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\EINst\Desktop\ProjetoPedro\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EINst\Desktop\ProjetoPedro\bin\Debug\System.Buffers.dll
+C:\Users\EINst\Desktop\ProjetoPedro\bin\Debug\MySql.Data.xml
+C:\Users\EINst\Desktop\ProjetoPedro\obj\Debug\ProjetoPedro.csproj.AssemblyReference.cache
+C:\Users\EINst\Desktop\ProjetoPedro\obj\Debug\ProjetoPedro.Form1.resources
+C:\Users\EINst\Desktop\ProjetoPedro\obj\Debug\ProjetoPedro.FrmTelemoveis.resources
+C:\Users\EINst\Desktop\ProjetoPedro\obj\Debug\ProjetoPedro.Properties.Resources.resources
+C:\Users\EINst\Desktop\ProjetoPedro\obj\Debug\ProjetoPedro.csproj.GenerateResource.cache
+C:\Users\EINst\Desktop\ProjetoPedro\obj\Debug\ProjetoPedro.csproj.CoreCompileInputs.cache
+C:\Users\EINst\Desktop\ProjetoPedro\obj\Debug\ProjetoP.72C20FD5.Up2Date
+C:\Users\EINst\Desktop\ProjetoPedro\obj\Debug\ProjetoPedro.exe
+C:\Users\EINst\Desktop\ProjetoPedro\obj\Debug\ProjetoPedro.pdb

@@ -1,4 +1,4 @@
-﻿namespace ProjetoDiogoDias
+﻿namespace ProjetoPedro
 {
     partial class Form1
     {
@@ -28,23 +28,28 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.smenuDatabase = new System.Windows.Forms.ToolStripMenuItem();
-            this.smenuItemList = new System.Windows.Forms.ToolStripMenuItem();
-            this.smenuBrands = new System.Windows.Forms.ToolStripMenuItem();
-            this.smenuSearch = new System.Windows.Forms.ToolStripMenuItem();
-            this.smenuExit = new System.Windows.Forms.ToolStripMenuItem();
-            this.lblDataSource = new System.Windows.Forms.Label();
-            this.txtboxDataSource = new System.Windows.Forms.TextBox();
-            this.txtBoxPort = new System.Windows.Forms.TextBox();
-            this.lblPort = new System.Windows.Forms.Label();
-            this.txtBoxUser = new System.Windows.Forms.TextBox();
-            this.lblUser = new System.Windows.Forms.Label();
-            this.txtBoxPassword = new System.Windows.Forms.TextBox();
-            this.lblPassword = new System.Windows.Forms.Label();
-            this.btnConnect = new System.Windows.Forms.Button();
-            this.LblDBstatus = new System.Windows.Forms.Label();
+            this.baseDeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listaTelemóveisToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.marcasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pesquisaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.TxtDataSource = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.TxtUtilizador = new System.Windows.Forms.TextBox();
+            this.BtnConectar = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
+            this.TxtPorta = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.TxtPassword = new System.Windows.Forms.TextBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -52,162 +57,194 @@
             this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.smenuDatabase,
-            this.smenuItemList,
-            this.smenuBrands,
-            this.smenuSearch,
-            this.smenuExit});
+            this.baseDeToolStripMenuItem,
+            this.listaTelemóveisToolStripMenuItem,
+            this.marcasToolStripMenuItem,
+            this.pesquisaToolStripMenuItem,
+            this.sairToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1200, 36);
+            this.menuStrip1.Size = new System.Drawing.Size(1200, 35);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // smenuDatabase
+            // baseDeToolStripMenuItem
             // 
-            this.smenuDatabase.Name = "smenuDatabase";
-            this.smenuDatabase.Size = new System.Drawing.Size(146, 30);
-            this.smenuDatabase.Text = "Base de Dados";
+            this.baseDeToolStripMenuItem.Name = "baseDeToolStripMenuItem";
+            this.baseDeToolStripMenuItem.Size = new System.Drawing.Size(146, 29);
+            this.baseDeToolStripMenuItem.Text = "Base de Dados";
             // 
-            // smenuItemList
+            // listaTelemóveisToolStripMenuItem
             // 
-            this.smenuItemList.Name = "smenuItemList";
-            this.smenuItemList.Size = new System.Drawing.Size(179, 30);
-            this.smenuItemList.Text = "Lista de Telemoveis";
+            this.listaTelemóveisToolStripMenuItem.Name = "listaTelemóveisToolStripMenuItem";
+            this.listaTelemóveisToolStripMenuItem.Size = new System.Drawing.Size(154, 29);
+            this.listaTelemóveisToolStripMenuItem.Text = "Lista Telemóveis";
+            this.listaTelemóveisToolStripMenuItem.Click += new System.EventHandler(this.listaTelemóveisToolStripMenuItem_Click);
             // 
-            // smenuBrands
+            // marcasToolStripMenuItem
             // 
-            this.smenuBrands.Name = "smenuBrands";
-            this.smenuBrands.Size = new System.Drawing.Size(84, 30);
-            this.smenuBrands.Text = "Marcas";
+            this.marcasToolStripMenuItem.Name = "marcasToolStripMenuItem";
+            this.marcasToolStripMenuItem.Size = new System.Drawing.Size(84, 29);
+            this.marcasToolStripMenuItem.Text = "Marcas";
             // 
-            // smenuSearch
+            // pesquisaToolStripMenuItem
             // 
-            this.smenuSearch.Name = "smenuSearch";
-            this.smenuSearch.Size = new System.Drawing.Size(96, 30);
-            this.smenuSearch.Text = "Pesquisa";
+            this.pesquisaToolStripMenuItem.Name = "pesquisaToolStripMenuItem";
+            this.pesquisaToolStripMenuItem.Size = new System.Drawing.Size(96, 29);
+            this.pesquisaToolStripMenuItem.Text = "Pesquisa";
             // 
-            // smenuExit
+            // sairToolStripMenuItem
             // 
-            this.smenuExit.Name = "smenuExit";
-            this.smenuExit.Size = new System.Drawing.Size(57, 30);
-            this.smenuExit.Text = "Sair";
+            this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(57, 29);
+            this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
-            // lblDataSource
+            // pictureBox1
             // 
-            this.lblDataSource.AutoSize = true;
-            this.lblDataSource.Location = new System.Drawing.Point(50, 175);
-            this.lblDataSource.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblDataSource.Name = "lblDataSource";
-            this.lblDataSource.Size = new System.Drawing.Size(95, 20);
-            this.lblDataSource.TabIndex = 1;
-            this.lblDataSource.Text = "DataSource";
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(441, 57);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(270, 187);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
             // 
-            // txtboxDataSource
+            // label1
             // 
-            this.txtboxDataSource.Location = new System.Drawing.Point(154, 165);
-            this.txtboxDataSource.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtboxDataSource.Name = "txtboxDataSource";
-            this.txtboxDataSource.Size = new System.Drawing.Size(148, 26);
-            this.txtboxDataSource.TabIndex = 2;
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(75, 363);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(199, 20);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Conexão à Base de Dados";
             // 
-            // txtBoxPort
+            // label2
             // 
-            this.txtBoxPort.Location = new System.Drawing.Point(154, 255);
-            this.txtBoxPort.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtBoxPort.Name = "txtBoxPort";
-            this.txtBoxPort.Size = new System.Drawing.Size(148, 26);
-            this.txtBoxPort.TabIndex = 4;
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(75, 440);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(95, 20);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "DataSource";
             // 
-            // lblPort
+            // TxtDataSource
             // 
-            this.lblPort.AutoSize = true;
-            this.lblPort.Location = new System.Drawing.Point(50, 266);
-            this.lblPort.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblPort.Name = "lblPort";
-            this.lblPort.Size = new System.Drawing.Size(47, 20);
-            this.lblPort.TabIndex = 3;
-            this.lblPort.Text = "Porta";
+            this.TxtDataSource.Location = new System.Drawing.Point(240, 440);
+            this.TxtDataSource.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.TxtDataSource.Name = "TxtDataSource";
+            this.TxtDataSource.Size = new System.Drawing.Size(148, 26);
+            this.TxtDataSource.TabIndex = 4;
+            this.TxtDataSource.Text = "127.0.0.1";
             // 
-            // txtBoxUser
+            // label3
             // 
-            this.txtBoxUser.Location = new System.Drawing.Point(436, 171);
-            this.txtBoxUser.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtBoxUser.Name = "txtBoxUser";
-            this.txtBoxUser.Size = new System.Drawing.Size(148, 26);
-            this.txtBoxUser.TabIndex = 6;
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(460, 440);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(75, 20);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "Utilizador";
             // 
-            // lblUser
+            // TxtUtilizador
             // 
-            this.lblUser.AutoSize = true;
-            this.lblUser.Location = new System.Drawing.Point(352, 175);
-            this.lblUser.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblUser.Name = "lblUser";
-            this.lblUser.Size = new System.Drawing.Size(75, 20);
-            this.lblUser.TabIndex = 5;
-            this.lblUser.Text = "Utilizador";
+            this.TxtUtilizador.Location = new System.Drawing.Point(582, 440);
+            this.TxtUtilizador.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.TxtUtilizador.Name = "TxtUtilizador";
+            this.TxtUtilizador.Size = new System.Drawing.Size(148, 26);
+            this.TxtUtilizador.TabIndex = 6;
+            this.TxtUtilizador.Text = "root";
             // 
-            // txtBoxPassword
+            // BtnConectar
             // 
-            this.txtBoxPassword.Location = new System.Drawing.Point(436, 262);
-            this.txtBoxPassword.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtBoxPassword.Name = "txtBoxPassword";
-            this.txtBoxPassword.Size = new System.Drawing.Size(148, 26);
-            this.txtBoxPassword.TabIndex = 8;
+            this.BtnConectar.Location = new System.Drawing.Point(975, 418);
+            this.BtnConectar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.BtnConectar.Name = "BtnConectar";
+            this.BtnConectar.Size = new System.Drawing.Size(130, 71);
+            this.BtnConectar.TabIndex = 7;
+            this.BtnConectar.Text = "Conectar";
+            this.BtnConectar.UseVisualStyleBackColor = true;
+            this.BtnConectar.Click += new System.EventHandler(this.BtnConectar_Click);
             // 
-            // lblPassword
+            // label4
             // 
-            this.lblPassword.AutoSize = true;
-            this.lblPassword.Location = new System.Drawing.Point(352, 266);
-            this.lblPassword.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblPassword.Name = "lblPassword";
-            this.lblPassword.Size = new System.Drawing.Size(78, 20);
-            this.lblPassword.TabIndex = 7;
-            this.lblPassword.Text = "Password";
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(75, 518);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(47, 20);
+            this.label4.TabIndex = 8;
+            this.label4.Text = "Porta";
             // 
-            // btnConnect
+            // TxtPorta
             // 
-            this.btnConnect.Location = new System.Drawing.Point(630, 212);
-            this.btnConnect.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnConnect.Name = "btnConnect";
-            this.btnConnect.Size = new System.Drawing.Size(112, 35);
-            this.btnConnect.TabIndex = 9;
-            this.btnConnect.Text = "Conectar";
-            this.btnConnect.UseVisualStyleBackColor = true;
+            this.TxtPorta.Location = new System.Drawing.Point(240, 508);
+            this.TxtPorta.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.TxtPorta.Name = "TxtPorta";
+            this.TxtPorta.Size = new System.Drawing.Size(148, 26);
+            this.TxtPorta.TabIndex = 9;
+            this.TxtPorta.Text = "3306";
             // 
-            // LblDBstatus
+            // label5
             // 
-            this.LblDBstatus.AutoSize = true;
-            this.LblDBstatus.Location = new System.Drawing.Point(658, 268);
-            this.LblDBstatus.Name = "LblDBstatus";
-            this.LblDBstatus.Size = new System.Drawing.Size(64, 20);
-            this.LblDBstatus.TabIndex = 10;
-            this.LblDBstatus.Text = "Estado:";
-            this.LblDBstatus.Click += new System.EventHandler(this.LblDBstatus_Click);
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(456, 512);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(78, 20);
+            this.label5.TabIndex = 10;
+            this.label5.Text = "Password";
+            // 
+            // TxtPassword
+            // 
+            this.TxtPassword.Location = new System.Drawing.Point(582, 502);
+            this.TxtPassword.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.TxtPassword.Name = "TxtPassword";
+            this.TxtPassword.Size = new System.Drawing.Size(148, 26);
+            this.TxtPassword.TabIndex = 11;
+            this.TxtPassword.Text = "MySQL";
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(314, 585);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(464, 252);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 12;
+            this.pictureBox2.TabStop = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1200, 692);
-            this.Controls.Add(this.LblDBstatus);
-            this.Controls.Add(this.btnConnect);
-            this.Controls.Add(this.txtBoxPassword);
-            this.Controls.Add(this.lblPassword);
-            this.Controls.Add(this.txtBoxUser);
-            this.Controls.Add(this.lblUser);
-            this.Controls.Add(this.txtBoxPort);
-            this.Controls.Add(this.lblPort);
-            this.Controls.Add(this.txtboxDataSource);
-            this.Controls.Add(this.lblDataSource);
+            this.ClientSize = new System.Drawing.Size(1200, 917);
+            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.TxtPassword);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.TxtPorta);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.BtnConectar);
+            this.Controls.Add(this.TxtUtilizador);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.TxtDataSource);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -216,21 +253,23 @@
         #endregion
 
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem smenuDatabase;
-        private System.Windows.Forms.ToolStripMenuItem smenuItemList;
-        private System.Windows.Forms.ToolStripMenuItem smenuBrands;
-        private System.Windows.Forms.ToolStripMenuItem smenuSearch;
-        private System.Windows.Forms.ToolStripMenuItem smenuExit;
-        private System.Windows.Forms.Label lblDataSource;
-        private System.Windows.Forms.TextBox txtboxDataSource;
-        private System.Windows.Forms.TextBox txtBoxPort;
-        private System.Windows.Forms.Label lblPort;
-        private System.Windows.Forms.TextBox txtBoxUser;
-        private System.Windows.Forms.Label lblUser;
-        private System.Windows.Forms.TextBox txtBoxPassword;
-        private System.Windows.Forms.Label lblPassword;
-        private System.Windows.Forms.Button btnConnect;
-        private System.Windows.Forms.Label LblDBstatus;
+        private System.Windows.Forms.ToolStripMenuItem baseDeToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listaTelemóveisToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem marcasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem pesquisaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox TxtDataSource;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox TxtUtilizador;
+        private System.Windows.Forms.Button BtnConectar;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox TxtPorta;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox TxtPassword;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PyaljU+XpdM=",
+  "dgSpecHash": "+mUvLHufYww=",
   "success": true,
-  "projectFilePath": "C:\\Users\\EINst\\Desktop\\Prog20DiogoDias\\Prog20DiogoDias.csproj",
+  "projectFilePath": "C:\\Users\\EINst\\Documents\\GitHub\\3935-ProgramacaoCSharp\\3935-ProgramacaoCSharp\\Prog20DiogoDias\\Prog20DiogoDias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EINst\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\EINst\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",

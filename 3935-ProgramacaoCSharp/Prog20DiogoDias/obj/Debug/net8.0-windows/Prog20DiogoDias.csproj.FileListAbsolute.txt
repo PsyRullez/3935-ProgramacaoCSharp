@@ -61,3 +61,4 @@ C:\Users\EINst\Desktop\Prog20DiogoDias\obj\Debug\net8.0-windows\refint\Prog20Dio
 C:\Users\EINst\Desktop\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.pdb
 C:\Users\EINst\Desktop\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.genruntimeconfig.cache
 C:\Users\EINst\Desktop\Prog20DiogoDias\obj\Debug\net8.0-windows\ref\Prog20DiogoDias.dll
+C:\Users\EINst\Documents\GitHub\3935-ProgramacaoCSharp\3935-ProgramacaoCSharp\Prog20DiogoDias\obj\Debug\net8.0-windows\Prog20DiogoDias.RFMinsert.resources
